@@ -1,4 +1,4 @@
-﻿Console.Write("Введите массив данных через запятую(слова и/или целые числа); ");
+﻿Console.Write("Введите массив данных через запятую(слова и/или целые числа): ");
 string element = Console.ReadLine();
 string[] array1 = element.Split(",");
 string[] array2 = new string[0];
